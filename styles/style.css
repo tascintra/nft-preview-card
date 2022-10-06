@@ -1,2 +1,11 @@
+@font-face {
+  font-family: 'Outfit';
+  src: url(../fonts/Outfit-VariableFont_wght.ttf) format('truetype');
+}
+
+body {
+  font-family: Outfit, Verdana, Arial, sans-serif;
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
