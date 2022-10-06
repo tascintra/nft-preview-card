@@ -24,6 +24,7 @@ img {
   --bd-text: #6f84a2;
   --em-main: #00fff8;
   --avt-border: #b2b9c0;
+  --main-opacity: #00fff77c;
 
   /* Typography system definition */
   --main-font: Outfit, Verdana, Arial, sans-serif;
@@ -168,7 +169,7 @@ body {
 }
 
 .view:hover {
-  background: #00fff77c url(../images/icon-view.svg) no-repeat center center;
+  background: var(--main-opacity) url(../images/icon-view.svg) no-repeat center center;
   cursor: pointer;
 }
 
