@@ -85,6 +85,12 @@ body {
   font-variation-settings: "wght" 550;
 }
 
+.creation-text {
+  color: var(--bd-text);
+  font-size: 0.8rem;
+  font-variation-settings: "wght" 550;
+}
+
 /* Footer style */
 .footer {
   margin-top: auto;
