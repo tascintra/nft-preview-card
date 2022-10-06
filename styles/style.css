@@ -20,7 +20,7 @@ img {
   /* Color system definition */
   --bg-main: #0d1a2d;
   --bg-card: #15273f;
-  --em-title: #f6ffff;
+  --em-title: #e5f3ff;
   --bd-text: #6f84a2;
   --em-main: #0eb8b7;
 
@@ -64,6 +64,13 @@ body {
   max-width: 280px;
   height: 280px;
   border-radius: 10px;
+}
+
+/* Text style definitions */
+.main-title {
+  color: var(--em-title);
+  font-size: 1.225rem;
+  font-variation-settings: "wght" 300;
 }
 
 .attribution {
