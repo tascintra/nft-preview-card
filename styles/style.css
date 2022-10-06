@@ -25,7 +25,7 @@ img {
   --em-main: #0eb8b7;
 
   /* Typography system definition */
-  --main-font: Outfit, Verdana, Arial, sans-serif
+  --main-font: Outfit, Verdana, Arial, sans-serif;
 }
 
 body {
@@ -60,7 +60,7 @@ body {
   padding: 0px 24px;
 }
 
-.cube-img img {
+.cube-img {
   max-width: 280px;
   height: 280px;
   border-radius: 10px;
