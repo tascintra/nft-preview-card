@@ -72,6 +72,16 @@ body {
   justify-content: space-between;
 }
 
+.price-subcell {
+  display: flex;
+  gap: 7px;
+  align-items: center;
+}
+
+.ico-img {
+  height: 15px;
+}
+
 /* Text style definitions */
 .main-title {
   color: var(--em-title);
