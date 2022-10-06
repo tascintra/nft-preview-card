@@ -51,6 +51,7 @@ body {
   /* height: 544px; */
   padding: 24px 0px;
   border-radius: 15px;
+  margin-top: auto;
 }
 
 .subcontent-container {
