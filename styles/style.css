@@ -23,10 +23,13 @@ img {
   --em-title: #f6ffff;
   --bd-text: #6f84a2;
   --em-main: #0eb8b7;
+
+  /* Typography system definition */
+  --main-font: Outfit, Verdana, Arial, sans-serif
 }
 
 body {
-  font-family: Outfit, Verdana, Arial, sans-serif;
+  font-family: var(--main-font);
   margin: 0px;
 }
 
