@@ -79,11 +79,18 @@ body {
   font-variation-settings: "wght" 450;
 }
 
+/* Footer style */
+.footer {
+  margin-top: auto;
+}
+
 .attribution {
+  color: var(--em-title);
   font-size: 11px;
   text-align: center;
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--bd-text);
+  font-variation-settings: "wght" 700;
 }
