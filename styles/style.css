@@ -1,10 +1,23 @@
+/* Project typography definition */
 @font-face {
   font-family: 'Outfit';
   src: url(../fonts/Outfit-VariableFont_wght.ttf) format('truetype');
 }
 
+/* CSS custom reset */
+h1,
+p {
+  margin: 0px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
 body {
   font-family: Outfit, Verdana, Arial, sans-serif;
+  margin: 0px;
 }
 
 .attribution { font-size: 11px; text-align: center; }
