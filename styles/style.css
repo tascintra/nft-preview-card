@@ -87,8 +87,14 @@ body {
 
 .creation-text {
   color: var(--bd-text);
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   font-variation-settings: "wght" 550;
+}
+
+.creator-lnk {
+  text-decoration: none;
+  color: var(--em-title);
+  font-variation-settings: "wght" 400;
 }
 
 /* Footer style */
