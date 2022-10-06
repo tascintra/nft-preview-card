@@ -80,6 +80,11 @@ body {
   font-variation-settings: "wght" 450;
 }
 
+.price-text {
+  color: var(--em-main);
+  font-variation-settings: "wght" 550;
+}
+
 /* Footer style */
 .footer {
   margin-top: auto;
