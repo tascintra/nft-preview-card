@@ -73,6 +73,12 @@ body {
   font-variation-settings: "wght" 300;
 }
 
+.body-text {
+  color: var(--bd-text);
+  font-size: 1rem;
+  font-variation-settings: "wght" 450;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
