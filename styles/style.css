@@ -82,6 +82,12 @@ body {
   height: 15px;
 }
 
+.creator {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
 /* Text style definitions */
 .main-title {
   color: var(--em-title);
