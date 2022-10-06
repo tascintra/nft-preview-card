@@ -77,6 +77,7 @@ body {
   display: flex;
   justify-content: space-between;
   position: relative;
+  padding-top: 7px;
 }
 
 /* Decoration line */
@@ -87,7 +88,7 @@ body {
   height: 2px;
   background-color: #20324a;
   position: absolute;
-  top: 38px;
+  top: 44px;
 }
 
 .price-subcell {
