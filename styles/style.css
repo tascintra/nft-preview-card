@@ -15,10 +15,26 @@ img {
   display: block;
 }
 
+/* Style variables definition */
+:root {
+  /* Color system definition */
+  --bg-main: #0d1a2d;
+  --bg-card: #15273f;
+  --em-title: #f6ffff;
+  --bd-text: #6f84a2;
+  --em-main: #0eb8b7;
+}
+
 body {
   font-family: Outfit, Verdana, Arial, sans-serif;
   margin: 0px;
 }
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
