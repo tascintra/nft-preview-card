@@ -34,6 +34,10 @@ body {
   margin: 0px;
 }
 
+.main-content-container {
+  background: var(--bg-card);
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
