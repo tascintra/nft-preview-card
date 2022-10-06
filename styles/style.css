@@ -150,6 +150,33 @@ body {
   font-size: 0.9rem;
 }
 
+/* Active states */
+.cube-img-container {
+  position: relative;
+}
+
+.view {
+  height: 100%;
+  width: 100%;
+  background: transparent;
+  display: block;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  border-radius: 10px;
+}
+
+.view:hover {
+  background: #00fff77c url(../images/icon-view.svg) no-repeat center center;
+  cursor: pointer;
+}
+
+.main-title:hover, .creator-lnk:hover {
+  color: var(--em-main);
+  cursor: pointer;
+}
+
 /* Footer style */
 .footer {
   margin-top: auto;
@@ -162,6 +189,6 @@ body {
 }
 
 .attribution a {
-  color: var(--bd-text);
+  color: var(--em-main);
   font-variation-settings: "wght" 700;
 }
