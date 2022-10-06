@@ -67,6 +67,11 @@ body {
   border-radius: 10px;
 }
 
+.price-content-cell {
+  display: flex;
+  justify-content: space-between;
+}
+
 /* Text style definitions */
 .main-title {
   color: var(--em-title);
