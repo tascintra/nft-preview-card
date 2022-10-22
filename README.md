@@ -33,9 +33,8 @@ Users should be able to:
 Improve my skills with Flexbox positioning and relative element positioning.
 
 ### Screenshots 📸
-<div>
-  ![](./images/ss/nft-preview-card-component-main-layout.png) ![](./images/ss/nft-preview-card-component-main-hover.png)
-</div>
+![](./images/ss/nft-preview-card-component-main-layout.png)
+![](./images/ss/nft-preview-card-component-main-hover.png)
 
 ### Links 🔗
 
