@@ -12,8 +12,8 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
   - [Screenshots](#screenshots-)
   - [Links](#links-)
 - [My process](#my-process)
-  - [Built with](#built-with-)
-  - [What I learned](#what-i-learned-)
+  - [Built with](#built-with-%EF%B8%8F)
+  - [What I learned](#what-i-learned-%EF%B8%8F)
   - [Continued development](#continued-development-)
 - [Author](#author)
 
