@@ -57,7 +57,7 @@ The greatest obstacle was to build the solution to put an image over another one
 
 ### Continued development 👨‍💻
 
-Now for the next project I want to mix flexbox and grid layout and also include JavaScript to make interactions on the page to improve my skillw with JS.
+Now for the next project I want to mix flexbox and grid layout and also include JavaScript to make interactions on the page to improve my skills with JS.
 
 ## Author
 
