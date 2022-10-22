@@ -7,14 +7,14 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 ## 📋 Table of contents 
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge-🏆)
-  - [Learning goals](#learning-goals-🎯)
-  - [Screenshots](#screenshots-📸)
-  - [Links](#links-🔗)
+  - [The challenge](#the-challenge-)
+  - [Learning goals](#learning-goals-)
+  - [Screenshots](#screenshots-)
+  - [Links](#links-)
 - [My process](#my-process)
-  - [Built with](#built-with-🛠️)
-  - [What I learned](#what-i-learned-✔️)
-  - [Continued development](#continued-development-👨‍💻)
+  - [Built with](#built-with-)
+  - [What I learned](#what-i-learned-)
+  - [Continued development](#continued-development-)
 - [Author](#author)
 
 ## Overview
