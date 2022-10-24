@@ -21,7 +21,7 @@ This is a solution to the [NFT preview card component](https://www.frontendmento
 
 ### The challenge 🏆
 
-The project is to build a product preview card component for a crypto site as close as possible to the proposed design.
+The challenge was to build a product preview card component for a crypto site as close as possible to the proposed design.
 
 Users should be able to:
 
